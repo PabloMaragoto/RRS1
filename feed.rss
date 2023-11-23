@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+    <title>Gamepedia</title>
+    <description>Games Online</description>
+    <link>http://pablomaragoto.github.io/newRSS-def/</link>
+    <pubDate>Thu, 23 Nov 2023 12:30:02 GMT</pubDate>
+    <managingEditor>a23pablomd@iessanclemente.net (Pablo)</managingEditor>
+    <item>
+        <title>Test page</title>
+        <link>http://pablomaragoto.github.io/newRSS-def/index.html#ikariam</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <description>Ikariam</description>
+    </item>
+ </channel>
+</rss>
